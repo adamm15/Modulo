@@ -5,7 +5,7 @@ package math;
 
 /**
  * @author anthony.machacon
- *
+ * Test comment to check commit version in github 
  */
 public class powerOfTwo {
 
